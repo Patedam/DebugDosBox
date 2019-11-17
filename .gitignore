@@ -1,0 +1,6 @@
+visualc_net/.vs/
+visualc_net/Release/
+visualc_net/Debug/
+ext/
+*.dbx
+visualc_net/imgui.ini
